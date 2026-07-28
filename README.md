@@ -2,6 +2,12 @@
 
 Welcome to my Python coding journey repository! This repository contains my solutions to various algorithm and data structure problems.
 
+## 🔥 Consistency Tracker
+
+I am committed to coding every single day!
+
+![Daily Coding Challenge Completed](images/streak.png)
+
 ## 🚀 Solutions Included
 
 *   **`is_palindrome.py`**: Checks if an integer is a palindrome without converting it to a string by reversing its digits mathematically.
