@@ -10,6 +10,7 @@ I am committed to coding every single day!
 
 ## 🚀 Solutions Included
 
+*   **`find_missing_elements.py`**: Finds all numbers missing in the range between the minimum and maximum values of an array.
 *   **`is_palindrome.py`**: Checks if an integer is a palindrome without converting it to a string by reversing its digits mathematically.
 *   **`max_product.py`**: Finds the maximum product of the two largest digits within a given integer.
 *   **`minimum_pushes.py`**: Calculates the minimum number of key pushes to type a word on a keypad.
