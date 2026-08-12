@@ -13,6 +13,7 @@ I am committed to coding every single day!
 *   **`find_missing_elements.py`**: Finds all numbers missing in the range between the minimum and maximum values of an array.
 *   **`is_palindrome.py`**: Checks if an integer is a palindrome without converting it to a string by reversing its digits mathematically.
 *   **`max_product.py`**: Finds the maximum product of the two largest digits within a given integer.
+*   **`max_subarray_length.py`**: Finds the longest subarray where each number appears at most `k` times using a sliding window.
 *   **`minimum_pushes.py`**: Calculates the minimum number of key pushes to type a word on a keypad.
 *   **`predict_the_winner.py`**: Determines if the first player can win the array-picking game using dynamic programming with memoization.
 *   **`roman_to_int.py`**: Converts a given Roman numeral string into its corresponding integer value.
