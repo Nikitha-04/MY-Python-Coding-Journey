@@ -25,3 +25,6 @@ I am committed to coding every single day!
 *   Python 3
 
 Feel free to explore the code!
+
+## Setup
+To run these scripts, simply use `python <filename.py>`.
