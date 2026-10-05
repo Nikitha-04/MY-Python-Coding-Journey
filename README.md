@@ -28,3 +28,6 @@ Feel free to explore the code!
 
 ## Setup
 To run these scripts, simply use `python <filename.py>`.
+
+## Note
+Happy Coding!
