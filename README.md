@@ -40,3 +40,13 @@ I am documenting my Python learning journey and improving my problem-solving ski
 - Practising data structures and algorithms (DSA)
 - Writing readable, maintainable code
 - Learning from problem-solving mistakes
+## DSA Practice Strategy
+
+I practise data structures and algorithms to improve my problem-solving skills.
+
+### My Approach
+- Understand the problem and identify edge cases.
+- Start with a simple solution before optimising it.
+- Analyse time and space complexity.
+- Test the solution with different inputs.
+- Review mistakes and revisit challenging problems.
