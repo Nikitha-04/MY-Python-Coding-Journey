@@ -31,3 +31,12 @@ To run these scripts, simply use `python <filename.py>`.
 
 ## Note
 Happy Coding!
+## Python Learning Progress
+
+I am documenting my Python learning journey and improving my problem-solving skills through regular practice.
+
+### Current Focus
+- Strengthening Python fundamentals
+- Practising data structures and algorithms (DSA)
+- Writing readable, maintainable code
+- Learning from problem-solving mistakes
